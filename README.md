@@ -1,4 +1,4 @@
-<h1>Johnathan Mark Smith - Resume</h1>
+<h1>Ilya Kharlamov CV / Resume</h1>
 <h2>OBJECTIVE</h2>
 
 Over 29 years experience specializing in business technology. I am particularly interested in organizations that use leading technologies and Web Application Servers.  I am also able to interface with all levels of management.
@@ -7,7 +7,7 @@ Over 29 years experience specializing in business technology. I am particularly 
 
 <pre>
 Languages: 
-Java, JavaScript, HTML, PHP, SQL, PL/SQL, CSS, Perl, Korn Shell, Visual Basic, COBOL
+Java, JavaScript, Python, SQL, PL/SQL, Shell
 
 Standards and Frameworks: 
 Spring, Spring WebFlow 2, Spring Batch, Spring Data, Servlets, Hibernate, Maven, JUnit, Struts 1 & 2, 
@@ -17,7 +17,7 @@ Application Servers:
 JBoss, Tomcat, IBM WebSphere, JRun
 
 Databases:
-MYSQL, MariaDB, DB2, MongoDB, Oracle, HyperSQL, Microsoft Access, PL/SQL, SQLLite, Sybase
+Oracle
 
 Directory Services:
 OpenLDAP, Active Directory, NIS, NIS+
